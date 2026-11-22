@@ -1,0 +1,110 @@
+[
+  {
+    "id": "color_001_std",
+    "category": "color",
+    "condition": "standard",
+    "image_file": "color_001_std.jpg",
+    "query": "What color is the banana?",
+    "prior": "yellow",
+    "ground_truth": "yellow"
+  },
+  {
+    "id": "color_001_con",
+    "category": "color",
+    "condition": "conflict",
+    "image_file": "color_001_con.jpg",
+    "query": "What color is the banana?",
+    "prior": "yellow",
+    "ground_truth": "blue"
+  },
+  {
+    "id": "color_002_std",
+    "category": "color",
+    "condition": "standard",
+    "image_file": "color_002_std.jpg",
+    "query": "What color is the stop sign?",
+    "prior": "red",
+    "ground_truth": "red"
+  },
+  {
+    "id": "color_002_con",
+    "category": "color",
+    "condition": "conflict",
+    "image_file": "color_002_con.jpg",
+    "query": "What color is the stop sign?",
+    "prior": "red",
+    "ground_truth": "purple"
+  },
+  {
+    "id": "shape_001_std",
+    "category": "shape",
+    "condition": "standard",
+    "image_file": "shape_001_std.jpg",
+    "query": "What shape is the car tire?",
+    "prior": "round",
+    "ground_truth": "round"
+  },
+  {
+    "id": "shape_001_con",
+    "category": "shape",
+    "condition": "conflict",
+    "image_file": "shape_001_con.jpg",
+    "query": "What shape is the car tire?",
+    "prior": "round",
+    "ground_truth": "square"
+  },
+  {
+    "id": "shape_002_std",
+    "category": "shape",
+    "condition": "standard",
+    "image_file": "shape_002_std.jpg",
+    "query": "What shape is the basketball?",
+    "prior": "round",
+    "ground_truth": "round"
+  },
+  {
+    "id": "shape_002_con",
+    "category": "shape",
+    "condition": "conflict",
+    "image_file": "shape_002_con.jpg",
+    "query": "What shape is the basketball?",
+    "prior": "round",
+    "ground_truth": "cubic"
+  },
+  {
+    "id": "material_001_std",
+    "category": "material",
+    "condition": "standard",
+    "image_file": "material_001_std.jpg",
+    "query": "What material is the hammer head made of?",
+    "prior": "metal",
+    "ground_truth": "metal"
+  },
+  {
+    "id": "material_001_con",
+    "category": "material",
+    "condition": "conflict",
+    "image_file": "material_001_con.jpg",
+    "query": "What material is the hammer head made of?",
+    "prior": "metal",
+    "ground_truth": "glass"
+  },
+  {
+    "id": "material_002_std",
+    "category": "material",
+    "condition": "standard",
+    "image_file": "material_002_std.jpg",
+    "query": "What material is the cube made of?",
+    "prior": "ice",
+    "ground_truth": "ice"
+  },
+  {
+    "id": "material_002_con",
+    "category": "material",
+    "condition": "conflict",
+    "image_file": "material_002_con.jpg",
+    "query": "What material is the cube made of?",
+    "prior": "ice",
+    "ground_truth": "wood"
+  }
+]
