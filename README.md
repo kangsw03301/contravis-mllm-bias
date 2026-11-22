@@ -20,6 +20,7 @@ python src/compute_bootstrap.py --input_dir results/ --resamples 2000 --seed 42
 ```
 
 4. Repository Structure
+```
 contravis-mllm-bias/
 ├── README.md
 ├── requirements.txt
@@ -30,3 +31,4 @@ contravis-mllm-bias/
 └── src/
     ├── evaluate.py
     └── compute_bootstrap.py
+```
